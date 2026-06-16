@@ -10,7 +10,7 @@
 
 ## About Me
 
-I am a Computer Science student who enjoys learning programming and building projects. I am currently strengthening my fundamentals in programming and web development while working on academic projects.
+I am a Artificial Intelligence & Data Science student who enjoys learning programming and building projects. I am currently strengthening my fundamentals in programming and web development while working on academic projects.
 
 ---
 
