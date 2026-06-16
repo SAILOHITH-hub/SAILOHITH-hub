@@ -1,16 +1,61 @@
-## Hi there 👋
+# Hi, I'm TUMMALA SAI LOHITH KUMAR 👋
 
-<!--
-**SAILOHITH-hub/SAILOHITH-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student
 
-Here are some ideas to get you started:
+💻 Interested in Software Development and Technology
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently learning Python and Web Development
+
+---
+
+## About Me
+
+I am a Computer Science student who enjoys learning programming and building projects. I am currently strengthening my fundamentals in programming and web development while working on academic projects.
+
+---
+
+## Technical Skills
+
+### Programming Languages
+- Python
+- C
+
+### Web Development
+- HTML
+
+### Tools
+- GitHub
+- VS Code
+
+---
+
+## Academic Projects
+
+### Tourist Guide Maps
+A web application designed to help users find nearby tourist guides based on location and preferences.
+
+### Feedback Management System
+A system for collecting and managing user feedback, ratings, and suggestions.
+
+### AI-Powered Dietary Recommendation System
+A project focused on providing dietary recommendations based on user requirements.
+
+---
+
+## Currently Learning
+- Python
+- HTML & CSS
+- Git & GitHub
+- Problem Solving
+
+---
+
+## Career Goal
+
+To build strong programming skills and start my career as a Software Developer while continuously learning new technologies.
+
+---
+
+## Connect With Me
+- LinkedIn: www.linkedin.com/in/tummala-sai-lohith-kumar-285067357
+- Email: sailohith248@gmail.com
